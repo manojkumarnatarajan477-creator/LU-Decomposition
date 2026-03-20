@@ -46,8 +46,9 @@ print(X)
 ```
 
 ## Output:
-<img width="1483" height="851" alt="Mathsforai-ex5(a)" src="https://github.com/user-attachments/assets/859920b6-6eb1-46e2-8f3f-069783e17d43" />
-<img width="1480" height="762" alt="Mathsforai ex-5(b)" src="https://github.com/user-attachments/assets/c330088c-9be1-4902-aa9b-1639f06a9c5f" />
+
+![alt text](Mathsforai-ex5(a).png)
+![alt text](Mathsforai-ex5(b).png)
 
 
 
